@@ -1,3 +1,3 @@
-# test-repository
+# my first repo
 
-this is a second example
+i am an awsome love
